@@ -1,0 +1,16 @@
+## Use Case: Gastroenteritis Symptom Self-Assessment
+
+### User Pain Points:
+- Confusion about whether symptoms need a doctor's visit.
+- Lack of clarity on safe foods and fluids during recovery.
+- Risk of dehydration, especially in seniors and kids.
+
+### Chatbot Goals:
+- Provide simple symptom self-check support.
+- Share safe hydration and nutrition advice.
+- Guide users when to seek medical attention.
+
+### Success Criteria:
+- Users understand dehydration signs.
+- Users learn safe at-home care practices.
+- Clear ethical disclaimer provided: not for diagnosis.
